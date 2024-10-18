@@ -1,4 +1,4 @@
-#IMDb Clone
+# IMDb Clone
 
 This is a graduation project from the training program at Work Net, which I completed in collaboration with my creative team.
 This project was developed using react with vite to realize one page application concept.
