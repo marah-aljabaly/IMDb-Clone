@@ -1,8 +1,6 @@
-# React + Vite
+#IMDb Clone
 
+This is a graduation project from the training program at Work Net, which I completed in collaboration with my creative team.
+This project was developed using react with vite to realize one page application concept.
 
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Skills: React.js · Vite · Responsive Web Design · REST APIs · Routes · Bootstrap (Framework) · I18n · Redux . MUI . React Hook Form . React Slick
